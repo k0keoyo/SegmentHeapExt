@@ -342,4 +342,4 @@ Block Size:       0x50
 
 ### 引用
 
-MarkYason, "Windows 10 Segment Heap Internals", https://www.blackhat.com/docs/us-16/materials/us-16-Yason-Windows-10-Segment-Heap-Internals.pdf）
+MarkYason, "Windows 10 Segment Heap Internals", https://www.blackhat.com/docs/us-16/materials/us-16-Yason-Windows-10-Segment-Heap-Internals.pdf
